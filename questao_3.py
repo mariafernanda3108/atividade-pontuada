@@ -9,4 +9,4 @@ if a == b:
     print(f"C=A+B= {c}")
 else:
     c = a*b
-    print(f"C=A*B ={c}")
+    print(f"C=A*B ={c}") 

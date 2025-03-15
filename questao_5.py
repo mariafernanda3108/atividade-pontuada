@@ -14,3 +14,7 @@ match operador:
         resultado = numero1 * numero2
     case "/":
         resultado = numero1 + numero2
+    case _:
+        resultado = "operação invalida"
+    
+        print(f"Resultado: {resultado}")
